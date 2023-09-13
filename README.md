@@ -1,4 +1,4 @@
-Hi i'm k226444\n
+Hi i'm k226444,
 I am learning to program so please be patient\n
 The coding languages i'm learning are Zig, Rust, Swift, and C
 <!---
